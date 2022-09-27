@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Urbanist';
+}
+
+body {
+    font-family: 'Urbanist';
+    font-size: 16px;
+    color: dimgray;
+    background-color:rgb(220, 209, 193);
+}
+
+header {
+    height: 80px;
+    background-color: rgb(33, 47, 9);
+}
+
+footer {
+    height: 60px;
+    background-color: rgb(33, 47, 9);
+    text-align: center;
+    color: rgb(235, 217, 173);
+    padding-top: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1400px;
+}
+
+.container img {
+    height: 70px;
+    padding-top: 8px;
+}
+
+#conteudo {
+    font-family: 'Montserrat';
+    padding: 50px 0;
+}
+
+#menu {
+    float: right;
+    padding: 25px 0;
+}
+#menu a {
+    text-decoration: none;
+    padding: 32px 40px;
+    color: darkgrey;
+}
+#menu a:hover {
+    background-color: rgb(235, 217, 173);
+}
+
+#titulo {
+    color: rgb(235, 217, 173);
+    font-size: 40px;
+    float: left;
+    padding-top: 10px;
+}
+
+.tabela {
+    border: 1px;
+}
+
+.engage {
+    text-align: center;
+}
+
+
+
